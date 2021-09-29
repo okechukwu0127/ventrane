@@ -15,6 +15,10 @@ export default {
       Shuttle: require('../assets/shuttle.png'),
       Woman: require('../assets/woman.png'),
       Man: require('../assets/man.png'),
+
+      Ball1: require('../assets/022.png'),
+      Ball2: require('../assets/027.png'),
+      Ball3: require('../assets/028.png'),
     },
   },
   themeDark: {},

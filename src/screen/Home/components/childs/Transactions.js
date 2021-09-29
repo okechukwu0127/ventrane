@@ -34,7 +34,7 @@ function Transactions() {
     {
       id: '580f-3da1-471f-bd96-145571e29d72',
       title: 'SwipeCard',
-      img: config.themeDefault.IMAGES.MasterCard,
+      img: config.themeDefault.IMAGES.Ball3,
       amount: '$478',
       subtitle: 'Payment Recieved',
       color: '#17c6d9',
@@ -43,7 +43,7 @@ function Transactions() {
     {
       id: '5869d96-145571e29d72',
       title: 'MasterCard',
-      img: config.themeDefault.IMAGES.MasterCard,
+      img: config.themeDefault.IMAGES.Ball2,
       amount: '$552',
       subtitle: 'Payment Recieved',
       color: '#2ea211',
@@ -52,7 +52,7 @@ function Transactions() {
     {
       id: '58694a0f-3de29d72',
       title: 'PayPal',
-      img: config.themeDefault.IMAGES.MasterCard,
+      img: config.themeDefault.IMAGES.Ball1,
       amount: '$390',
       subtitle: 'Payment Recieved',
       color: 'purple',

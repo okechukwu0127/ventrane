@@ -32,7 +32,7 @@ const styles = StyleSheet.create({
     width: 100 + '%',
     borderWidth: 0,
       borderColor: 'red',
-      backgroundColor: '#eee',
+      //backgroundColor: '#eee',
       paddingHorizontal:10
     
     //justifyContent:''

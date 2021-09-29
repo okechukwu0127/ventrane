@@ -51,7 +51,7 @@ function MyTabs() {
             fontSize: 16,
           },
         }}
-        component={SettingsScreen}
+        component={ProfileScreen}
       />
       <Tab.Screen
         name="Settings"
@@ -63,7 +63,7 @@ function MyTabs() {
             fontSize: 16,
           },
         }}
-        component={ProfileScreen}
+        component={SettingsScreen}
       />
     </Tab.Navigator>
   );
