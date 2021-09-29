@@ -189,7 +189,7 @@ function CarouselCard() {
   };
 
   return (
-    <View style={{paddingVertical: 20,width:120+'%',marginLeft:-10,marginTop:20,borderColor:'green',borderWidth:0,height:225}}>
+    <View style={{paddingVertical: 20,width:120+'%',marginLeft:0,marginTop:20,borderColor:'green',borderWidth:0,height:225}}>
       <Carousel
         ref={ref => (this.carousel = ref)}
         data={CardData}
