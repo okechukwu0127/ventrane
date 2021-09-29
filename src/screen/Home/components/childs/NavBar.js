@@ -19,7 +19,7 @@ function NavBar() {
       <View style={[styles.fStart, styles.fDirecRow]}>
         <Image
           source={config.themeDefault.IMAGES.Avatar}
-          style={[styles.NavBarAvatar, styles.fStart, {marginTop: 5}]}
+          style={[styles.NavBarAvatar, styles.fStart, {marginTop: 10}]}
         />
         <View style={[styles.fEnd, {paddingLeft: 10, marginTop: 0}]}>
           <Text>Hello</Text>
